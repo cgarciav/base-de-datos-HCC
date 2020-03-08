@@ -5,3 +5,4 @@ Se trata de una base de datos etiquetada en función de la supervivencia en un a
 
 Existe un fichero de visualización general de los datos para una primera familiarización con la base a estudiar y otro fichero denominado
 clasificadores donde se lleva a cabo diferentes métodos de aprendizaje supervisado( KNN, RL, AD y NB).
+Además se encuentra adjunto un fichero .pdf con información relacionada con la enfermedad a tratar.
